@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Presets>
+  <Preset Name="SaveTemp1">
+    <Rule>Add counter with Roman format</Rule>
+    <Rule>Add prefix "haha"</Rule>
+    <Rule>Add suffix "lala"</Rule>
+  </Preset>
+  <Preset Name="SaveTemp2">
+    <Rule>Add prefix "hihi"</Rule>
+    <Rule>Add counter with Formal format</Rule>
+  </Preset>
+</Presets>

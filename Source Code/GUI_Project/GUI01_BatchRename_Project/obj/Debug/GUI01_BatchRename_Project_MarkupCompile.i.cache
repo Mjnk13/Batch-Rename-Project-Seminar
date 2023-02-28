@@ -1,0 +1,20 @@
+﻿GUI01_BatchRename_Project
+
+
+library
+C#
+.cs
+D:\Project năm 2 hk1\GUI_Project\GUI01_BatchRename_Project\obj\Debug\
+GUI01_BatchRename_Project
+none
+false
+DEBUG;TRACE
+
+14538615818
+
+191693362093
+30-1286381808
+AddCounterUC.xaml;AddPrefixUC.xaml;AddSuffixUC.xaml;ChangeExtensionUC.xaml;EditRuleUC.xaml;GUI01_BatchRename.xaml;ListOfRuleUC.xaml;LoadPresetUC.xaml;LowercaseAllAndRemoveAllSpacesUC.xaml;PascalCaseUC.xaml;PreviewUC.xaml;RemoveAllSpacesUC.xaml;ReplaceUC.xaml;SavePresetUC.xaml;
+
+True
+

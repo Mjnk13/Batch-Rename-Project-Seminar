@@ -1,0 +1,5 @@
+C:\Users\Admin\Desktop\BatchRename\IContract\bin\Release\IContract.dll
+C:\Users\Admin\Desktop\BatchRename\IContract\bin\Release\IContract.pdb
+C:\Users\Admin\Desktop\BatchRename\IContract\obj\Release\IContract.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\BatchRename\IContract\obj\Release\IContract.dll
+C:\Users\Admin\Desktop\BatchRename\IContract\obj\Release\IContract.pdb
